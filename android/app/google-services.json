@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487132942580",
+    "project_id": "unsplash-8e146",
+    "storage_bucket": "unsplash-8e146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487132942580:android:5493bb6b8e413faf0e8ea1",
+        "android_client_info": {
+          "package_name": "com.unsplash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487132942580-pbu5emq5k47cr4e683gp4iiefq7h2lc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACWosSt550hNdMIYCnBzw5O7jbGyWHVRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487132942580-pbu5emq5k47cr4e683gp4iiefq7h2lc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
